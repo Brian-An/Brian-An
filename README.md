@@ -1,6 +1,6 @@
 # brian an
 
-[![Brian-An profile views](https://u8views.com/api/v1/github/profiles/126034775/views/day-week-month-total-count.svg)](https://u8views.com/github/Brian-An)
+![profile views](https://komarev.com/ghpvc/?username=Brian-An)
 
 - 📍 ontario, canada
 - 18 years old
