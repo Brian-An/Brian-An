@@ -2,7 +2,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=Brian-An)
 
-- 📍 ontario, canada
+- 📍 toronto
 - math @ [uwaterloo](https://uwaterloo.ca/)
 - prev software developer intern @ [touchbistro](https://www.touchbistro.com/)
 
