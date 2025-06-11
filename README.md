@@ -3,7 +3,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=Brian-An)
 
 - 📍 toronto
-- math @ [uwaterloo](https://uwaterloo.ca/)
+- computer science and finance @ [uwaterloo](https://uwaterloo.ca/)
 - prev software developer intern @ [touchbistro](https://www.touchbistro.com/)
 
 tech stack
