@@ -4,6 +4,7 @@
 
 - 📍 toronto
 - computer science and finance @ [uwaterloo](https://uwaterloo.ca/)
+- incoming @ [rogers communications](https://www.rogers.com/)
 - prev software developer intern @ [touchbistro](https://www.touchbistro.com/)
 
 tech stack
